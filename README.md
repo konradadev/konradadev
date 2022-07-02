@@ -1,0 +1,3 @@
+- My name is Konrad
+- I'm an amateur programmer
+- I'm currently learning Web Development, at the moment I'm taking The Odin Project course
